@@ -1,0 +1,22 @@
+{
+    "name": "puleeno-cms/quill-editor",
+    "description": "Quill editor for Puleeno CMS",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PuleenoCMS\\QuillEditor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "config": {
+        "vendor-dir": "libs"
+    }
+}
