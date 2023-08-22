@@ -18,5 +18,8 @@
     "require": {},
     "config": {
         "vendor-dir": "libs"
+    },
+    "require-extensions": {
+        "puleeno-cms/text-editor": "*"
     }
 }
