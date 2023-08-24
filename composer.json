@@ -21,5 +21,6 @@
     },
     "require-extensions": {
         "puleeno-cms/text-editor": "*"
-    }
+    },
+    "extension-class": "PuleenoCMS\\QuillEditor\\QuillEditorExtension"
 }
